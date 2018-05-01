@@ -7,6 +7,8 @@ import java.util.Scanner;
 
 public class codemonk_coderland {
 
+    /*https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/monk-visits-coderland-4/*/
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<String> elements = new ArrayList<>();
